@@ -1,7 +1,27 @@
 # Projeto-1--MarcelOttoni.games
 ### In this repository will have some game I did in Python, like Rock-paper-scissors and Guessing.
 # Jokenpo:
-  O objetivo desse código é recriar o jogo jokenpo (pedra,papel, tesoura) em python, somente utilizando funções como if,elif, while
+
+### Recriando o joguinho do Jokenpo!
+##### Projeto feito inteiramente em Python
+
+###### Somente com o uso de funções como:
+- If
+- Elif
+- While
+
+### O que tem neste código?:
+Este é o jogo Jokenpo( ou pedra,papel e tesoura), sendo possível jogar contra o computador, contra um amigo e ver computador contra computador.
  # Adivinhação:
-  Neste código é o clássico jogo de adivinhar um número entre 0-100. Nele, você escolhe a dificuldade e o jogo vai te falando se o número que você escolheu é maior ou menor
-  que o número secreto.
+
+### Criando o joguo de Adivinhação!
+##### Projeto feito em Python
+
+###### Com o objetivo de treinar funções como::
+- If
+- Elif
+- For
+
+### O que tem neste código?:
+Clássico jogo de adivinhação de um número entre 0-100, onde você tem que digita um número e o programa diz se o número secreto é maior ou menor.
+##### Espero que goste! 
